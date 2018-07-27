@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head> Arrays</head>
+
+<body>
+<p id="example"></p>
+
+
+
+
+
+<script type="text/javascript">
+var teams =["Real Madrid","Manchester United","Barcelona"];
+documnet.getElementById("example").inner.HTML= teams[1];
+</script>
+</body>
+
+
+
+
+</html>
